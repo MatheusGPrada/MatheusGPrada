@@ -4,9 +4,6 @@
 
 ## ⚡ Technologies
 
-These are some of the technologies and tools that I work with:
-
-
 ![React](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-2496ED?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
@@ -23,16 +20,19 @@ These are some of the technologies and tools that I work with:
 <a href="https://github.com/MatheusGPrada/MatheusGPrada">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGPrada&hide=java,objective-c,starlark,shell,ruby,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
+</br>
 <a href="https://github.com/MatheusGPrada/MatheusGPrada">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusGPrada&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MatheusGPrada's GitHub Stats" />
 </a>
 
-<a href="https://github.com/MatheusGPrada/Pita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
+## Starting with expo
 
 <a href="https://github.com/MatheusGPrada/Github">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+## React Native Project
+
+<a href="https://github.com/MatheusGPrada/Pita">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
