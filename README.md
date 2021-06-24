@@ -36,4 +36,7 @@ These are some of the technologies and tools that I work with:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
+<a href="https://github.com/holding-digital/livia-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=holding-digital&repo=livia-app&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>   
 
