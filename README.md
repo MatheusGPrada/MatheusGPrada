@@ -18,10 +18,22 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Repos
+## &#x1f4c8; GitHub Stats
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub)](https://github.com/MatheusGPrada/GitHub)
+<a href="https://github.com/MatheusGPrada/MatheusGPrada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGPrada&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a href="https://github.com/MatheusGPrada/MatheusGPrada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusGPrada&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MatheusGPrada's GitHub Stats" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita)](https://github.com/MatheusGPrada/Pita)
+<a href="https://github.com/MatheusGPrada/python-project-blueprint">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+
+<a href="https://github.com/MatheusGPrada/Github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>    
 
 
