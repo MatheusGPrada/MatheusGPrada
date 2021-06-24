@@ -18,12 +18,10 @@ These are some of the technologies and tools that I work with:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-### Demo
+### Repos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub)](https://github.com/MatheusGPrada/GitHub)
 
-Use [show_owner](#customization) variable to include the repo's owner username
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub&show_owner=true)](https://github.com/MatheusGPrada/GitHub)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita)](https://github.com/MatheusGPrada/Pita)
 
 
