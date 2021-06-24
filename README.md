@@ -20,10 +20,10 @@ These are some of the technologies and tools that I work with:
 
 ### Demo
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=MatheusGPrada)](https://github.com/MatheusGPrada/MatheusGPrada)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub)](https://github.com/MatheusGPrada/GitHub)
 
 Use [show_owner](#customization) variable to include the repo's owner username
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=MatheusGPrada&show_owner=true)](https://github.com/MatheusGPrada/MatheusGPrada)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub&show_owner=true)](https://github.com/MatheusGPrada/GitHub)
 
 
