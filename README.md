@@ -17,8 +17,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Matheus GitHub stats](https://personal-github-stats-8tkmrsfp9-MatheusGPrada.vercel.app/api?username=MatheusGPrada&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars)
-![Matheus GitHub stats](https://personal-github-stats-8tkmrsfp9-MatheusGPrada.vercel.app/api/top-langs/?username=MatheusGPrada&langs_count=6&layout=compact&theme=radical)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusGPrada&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars)
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/apii/top-langs/?username=MatheusGPrada&langs_count=6&layout=compact&theme=radical)
 ![Matheus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusGPrada&theme=radical)
 
 ## Starting with expo
