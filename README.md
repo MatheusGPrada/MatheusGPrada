@@ -17,19 +17,9 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/MatheusGPrada/MatheusGPrada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGPrada&hide=java,objective-c,starlark,shell,ruby,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3&count_private=true" />
-</a>
-</br>
-</br>
-<a href="https://github.com/MatheusGPrada/MatheusGPrada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusGPrada" alt="MatheusGPrada's GitHub Stats" />
-</a>
-</br>
-</br>
-<a href="https://github.com/MatheusGPrada/MatheusGPrada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusGPrada&show_icons=true&count_private=true&line_height=27&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="MatheusGPrada's GitHub Stats" />
-</a>
+![Matheus GitHub stats](https://personal-github-stats-8tkmrsfp9-MatheusGPrada.vercel.app/api?username=MatheusGPrada&count_private=true&show_icons=true&theme=radical&include_all_commits=true&hide=stars)
+![Matheus GitHub stats](https://personal-github-stats-8tkmrsfp9-MatheusGPrada.vercel.app/api/top-langs/?username=MatheusGPrada&langs_count=6&layout=compact&theme=radical)
+![Matheus wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusGPrada&theme=radical)
 
 ## Starting with expo
 
