@@ -22,7 +22,7 @@
 </a>
 </br>
 </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusGPrada)](https://github.com/MatheusGPrada/MatheusGPrada)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusGPrada)](https://github.com/anuraghazra/github-readme-stats)
 </br>
 </br>
 <a href="https://github.com/MatheusGPrada/MatheusGPrada">
