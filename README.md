@@ -22,7 +22,9 @@
 </a>
 </br>
 </br>
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MatheusGPrada)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/MatheusGPrada/MatheusGPrada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=MatheusGPrada" alt="MatheusGPrada's GitHub Stats" />
+</a>
 </br>
 </br>
 <a href="https://github.com/MatheusGPrada/MatheusGPrada">
