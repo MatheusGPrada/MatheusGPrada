@@ -18,6 +18,8 @@
 ## &#x1f4c8; GitHub Stats
 
 ![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=MatheusGPrada&show_icons=true&theme=tokyonight)
+<br />
+<br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGPrada&layout=compact&theme=radical)
 
 ## Starting with expo
