@@ -14,7 +14,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Matheus Github Stats](https://github-readme-stats.vercel.app/api?username=MatheusGPrada&hide)
+![Matheus Github Stats](https://github-readme-stats.vercel.app/api?user=MatheusGPrada&hide)
 <br />
 <br />
 
