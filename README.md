@@ -14,18 +14,16 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Matheus Github Stats](https://github-readme-stats.vercel.app/api?user=MatheusGPrada&hide)
-<br />
-<br />
+![Matheus Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusGPrada&count_private=true)
 
 ## Starting with expo
 
 <a href="https://github.com/MatheusGPrada/Github">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=GitHub&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
 
 ## React Native Project
 
 <a href="https://github.com/MatheusGPrada/Pita">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
