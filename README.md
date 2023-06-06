@@ -1,20 +1,20 @@
 ### Hi there 🤙
 
-- I’m currently working at @LionX with TypeScript, React and Nodejs.
+- I’m currently working at @PicPay with TypeScript and React
 
 ## ⚡ Technologies
 
 ![React](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-2496ED?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## &#x1f4c8; GitHub Stats
 
-![Matheus Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusGPrada&count_private=true)
+![Matheus Github Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MatheusGPrada&count_private=true&include_all_commits=true)
 
 ## Starting with expo
 
