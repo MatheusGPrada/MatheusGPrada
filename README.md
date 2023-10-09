@@ -14,7 +14,7 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![Matheus Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGPrada&langs_count=5)
+![Matheus Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGPrada&langs_count=4&hide=java)
 
 ## Starting with expo
 
