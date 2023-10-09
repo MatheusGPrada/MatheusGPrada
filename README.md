@@ -4,7 +4,7 @@
 
 ## ⚡ Technologies
 
-![Swift](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=swift)
+![Swift](https://img.shields.io/badge/-Swift-181717?style=flat-square&logo=swift)
 ![React](https://img.shields.io/badge/-React-007396?style=flat-square&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-2496ED?style=flat-square&logo=react&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
