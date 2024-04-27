@@ -26,7 +26,7 @@
 ## Swift MemoryGame
 
 <a href="https://github.com/MatheusGPrada/Memorize">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=Github_ios&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=Memorize&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
 ## React Native Project
