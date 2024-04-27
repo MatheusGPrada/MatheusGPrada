@@ -1,6 +1,6 @@
 ### Hi there 🤙
 
-- I’m currently working at @PicPay with TypeScript and React
+- I’m currently working at @PicPay with Swift
 
 ## ⚡ Technologies
 
@@ -17,14 +17,20 @@
 
 ![Matheus Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusGPrada&langs_count=4&hide=java)
 
-## React Native Project
-
-<a href="https://github.com/MatheusGPrada/Pita">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
 ## Swift Github Project
 
 <a href="https://github.com/MatheusGPrada/Github_ios">
   <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=Github_ios&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+
+## Swift MemoryGame
+
+<a href="https://github.com/MatheusGPrada/Memorize">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=Github_ios&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a> 
+
+## React Native Project
+
+<a href="https://github.com/MatheusGPrada/Pita">
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=MatheusGPrada&repo=Pita&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
