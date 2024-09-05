@@ -39,6 +39,5 @@
 </a> 
 
 ## 💬 Let`s talk!
-### If you are interested in Swift development, or want to discuss any project, feel free to contact me.
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://github.com/MatheusGPrada)](https://www.linkedin.com/in/matheus-p-337678125/)
